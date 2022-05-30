@@ -1,0 +1,170 @@
+p {
+  text-align: center;
+  color: red;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1,h2,h3,h5 {
+  color: navy;
+  margin-left: 20px;
+}
+
+img {
+  border: 5px solid rgb(6, 241, 96);
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+  height: 200px;
+}
+
+#colyel{
+  background-color: rgb(9, 240, 105);
+}
+
+.coloryellow {
+  color: red;
+  text-align: center;
+}
+
+.tourismpic {
+  background-image: url("../css/images/tour1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+placeholder{
+  color: blueviolet;
+}
+
+#mid {
+  align-content: center;
+}
+
+form {
+  border-radius: 25px;
+  border: 10px solid rgb(0, 171, 238);
+  /*background-color: rgb(0, 171, 238);*/
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  border: 10px solid rgb(6, 241, 96);
+  background: #4c00fd;
+  padding: 20px; 
+  width: 400px;
+  height: 150px;
+  align-content: center;  
+}
+
+#bound2 {
+  border-radius: 25px;
+  border: 10px solid #4c00fd;
+  background: rgb(1, 219, 248);
+  padding: 20px; 
+  width: 400px;
+  height: 350px;
+  align-content: center;  
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.contentsp {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  background: rgb(1, 219, 248);
+  border: 10px solid rgb(147, 6, 241);
+}
+
+.content2 {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+.content3 {
+  max-width: 350px;
+  margin: auto;
+  padding: 10px;
+}
+.content4 {
+  max-width: 150px;
+  margin: auto;
+  padding: 10px;
+}
+
+.content5 {
+  max-width: 150px;
+  margin: right;
+  padding: 10px;
+}
+
+.contentjq {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.contentser {
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+
+
+#name {
+  background-color:rgb(238, 255, 0);
+}
+#username {
+  background-color:rgb(238, 255, 0);
+}
+#email {
+  background-color:rgb(238, 255, 0);
+}
+#password {
+  background-color:rgb(238, 255, 0);
+}
+#contact {
+  background-color:rgb(238, 255, 0);
+}
+
+#click {
+  background-color:rgb(255, 251, 0);
+}
+
+#red {
+  background-color:rgb(255, 8, 0);
+}
+
+#green {
+  background-color:rgb(0, 255, 136);
+}
+
+#vehiclename {
+  background-color:rgb(152, 182, 228);
+}
+
+#code,#docname,#day,#time,#room {
+  background-color:rgb(0, 255, 136);
+}
+
+#sh,#sho {
+  background-color:rgb(89, 231, 33);
+}
+
+#plus {
+  display: none;
+}
+
+#updel {
+  display: none;
+}
